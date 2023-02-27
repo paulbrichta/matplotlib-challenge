@@ -20,6 +20,7 @@ This assignment is broken down into the following tasks:
 Create a DataFrame of summary statistics. Remember, there is more than one method to produce the results you're after, so the method you use is less important than the result.
 
 Your summary statistics should include:
+
     - A row for each drug regimen. These regimen names should be contained in the index column.
     - A column for each of the following statistics: mean, median, variance, standard deviation, and SEM of the tumor volume.
 
